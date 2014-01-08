@@ -1,5 +1,3 @@
-camerafill-samples 
-
 Available in CoronaSDK builds 2013.2106 and greater
 ==================
 
